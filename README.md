@@ -1,7 +1,7 @@
 [# STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
 
-## Name: Sampaul P
-## Reg No: 212224250015
+## Name: Isaachenryrufuson S
+## Reg No: 212224250007
 
 ## Aim:
 To study the operation of LVDT- Linear Variable Differential Transformer.
